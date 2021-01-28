@@ -1,0 +1,28 @@
+enable  : true
+topTitle: WHAT WE DO FOR YOU
+title   : Our Work Process
+subtitle: Four simple stages to your success!
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Project Analysis
+    description : >
+      Let us take care of the basics putting our experience and know-how to the test.
+
+  - number  : 2
+    icon    : tf-ion-ios-alarm-outline
+    title   : Time Management
+    description : >
+      Let us keep you on track and inspiring client confidence.
+
+  - number  : 3
+    icon    : tf-ion-ios-email-outline
+    title   : 24/7 Drive
+    description : >
+      We will keep your product relevant until it's delivered with tireless marketing and advertising campaigns.
+
+  - number  : 4
+    icon    : tf-ion-ios-locked-outline
+    title   : Investor Lock-ins
+    description : >
+      Let us take care of securing your investors and keeping them locked in for project delivery.

@@ -1,0 +1,21 @@
+enable : true
+item    :
+  - quote       : >
+      NextStart truly propelled our business into what it is today. Their results are proven their team methodical.
+    clientThumb : images/client-logo/jeff-swade.jpeg
+    clientName  : Jeff Swade
+    clientDesignation: CEO , Edge Point Media
+
+  - quote       : >
+      The sharp minds at NextStart gave Meta Pipe the competitive edge to break into a well established market. Would
+      highly recommend this team of cold precision.
+    clientThumb : images/client-logo/wendy-page.jpeg
+    clientName  : Wendy Page
+    clientDesignation: CEO , Meta Pipe
+
+  - quote       : >
+      Before T-tack enlisted the services of NextStart we were on struggle street. The team of hardened professionals
+      allowed us to bounce back and break out into the market.
+    clientThumb : images/client-logo/ken-bobson.jpeg
+    clientName  : Ken Bobson
+    clientDesignation: CEO , T-tack

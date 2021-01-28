@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e8b330d-8802-4197-808c-b1991ef4f0e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/about/_index.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/about/_index.fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/_index.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/_index.fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/are-you-doing-the-right-way.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/are-you-doing-the-right-way.fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/blog-photos-on-phone.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/blog-photos-on-phone.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/installation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/something-i-need-to-tell-you.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/ten-things-about-business.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/the-nourish-box-august.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/this-show-has-divided.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/blog/why-you-need-a-statement-bag-this-season.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/contact/_index.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/contact/_index.fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/portfolio/_index.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/portfolio/_index.fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/service/_index.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/content/service/_index.fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/about.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/clients.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/feature.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/philosophy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/portfolio.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/pricing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/service.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/team.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/testimonial.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/en/workingprocess.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/about.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/clients.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/feature.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/philosophy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/portfolio.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/pricing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/service.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/team.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/testimonial.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/data/fr/workingprocess.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/i18n/en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/i18n/fr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/about/about-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/about/about-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/about/about-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/about/about-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/about/member.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/blog/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/blog/post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/blog/post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/call-to-action/call-to-action-bg-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/call-to-action/call-to-action-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/clients-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/clients-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/logo-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/client-logo/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/company/company-image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/company/company-image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/company/company-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/logos/lang-de.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/logos/lang-en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/logos/lang-fr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/logos/lang-nl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/portfolio/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/pricing-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/slider/video-player-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/team/member-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/team/member-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/team/member-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/exampleSite/static/images/team/member-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/navigator-hugo/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/navigator-hugo/layouts/partials/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/navigator-hugo/layouts/partials/team.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/navigator-hugo" />
+  </component>
+  <component name="ProjectId" id="1nbNkUfth2BjleHlYFG1RQdJ1kJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/content" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8b330d-8802-4197-808c-b1991ef4f0e5" name="Default Changelist" comment="" />
+      <created>1611654973973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611654973973</updated>
+      <workItem from="1611654975209" duration="7173000" />
+      <workItem from="1611832783738" duration="5656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

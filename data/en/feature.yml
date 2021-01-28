@@ -1,0 +1,16 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : WordPress Theme
+    description : >
+      We weill create a custom wordpress site for your startup.
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Timely Delivery
+    description : >
+      We will help you hit your delivery targets and ensure that your project stays on the gant chart.
+
+  - icon  : tf-ion-ios-book-outline
+    title : Media & Advertisement
+    description : >
+      Let us take care of your marketing and advertisement campaigns.

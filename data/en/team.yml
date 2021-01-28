@@ -1,0 +1,32 @@
+enable  : true
+topTitle: TEAM MEMBER
+title   : Our Team.
+subtitle: Meet our team of pure hardended professionals.
+
+member  :
+  - image         : images/team/bill-trace.jpeg
+    name          : Bill Trace
+    designation   : Head Of Marketing
+    description   : >
+      If I can sell our services to you, think about what I can help you sell.
+    twitterURL    : https://twitter.com/
+    linkedinURL   : https://linkedin.com/
+    facebookURL   : https://facebook.com/
+
+  - image         : images/team/bobby-millar.jpeg
+    name          : Bobby Millar
+    designation   : Web Developer
+    description   : >
+      I built this website in an afternoon, imagine what I can help you build.
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    linkedinURL   : https://linkedin.com/
+
+  - image         : images/team/alice-watts.jpeg
+    name          : Alice Watts
+    designation   : Senior Developer
+    description   : >
+      I manage these two, I bet I can help you manage your team.
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    linkedinURL   : https://linkedin.com/
